@@ -1,0 +1,10 @@
+//DONE		DB sudaro ne mažiau kaip 4 logiškai pagrįstos lentelės. 	
+//DONE		DB yra 4-je norminėje formoje. 					
+//DONE		Lentelės turi visus reikiamus pirminius ir išorinius raktus.
+//DONE		DB-je apibrėžtos bent 2 virtualiosios lentelės.
+//DONE		Apibrėžtos bent 2 numatytosios reikšmės.
+//DONE		DB-je apibrėžti bent 2 indeksai, iš kurių bent vienas - unikalus ir bent vienas - ne.
+//DONE 		Panaudoti bent 3 deklaratyvūs reikalavimai reikšmėms, panaudojant skirtingus predikatus.
+//DONE		DB-je užtikrinamos bent 2 dalykinės taisyklės (ne reikalavimai reikšmėms), apibrėžiamos trigeriais (eilučių numeravimas nėra dalykinė taisyklė).
+//DONE		DB-je yra bent 1 tapatumo požymis (numeris), kuris užtikrinamas automatiškai (stulpelio reikšmės generavimu arba trigeriu).
+//DONE		DB-je apibrėžta bent 1 materializuota virtualioji lentelė ir jos duomenų atnaujinimo sakinys.

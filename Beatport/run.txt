@@ -1,0 +1,4 @@
+#!/bin/sh 
+export CLASSPATH=$CLASSPATH:/usr/share/java/postgresql.jar 
+javac Beatport.java Utility.java Query.java Connections.java Menu.java SQLStatement.java
+java Beatport
